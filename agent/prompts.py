@@ -1,5 +1,6 @@
 # agent/prompts.py
-from langchain.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate
+
 
 AGENT_PROMPT = ChatPromptTemplate.from_messages([
     ("system",
@@ -7,3 +8,4 @@ AGENT_PROMPT = ChatPromptTemplate.from_messages([
      "Use verified scientific reasoning. Do NOT hallucinate."),
     ("human", "{query}")
 ])
+
