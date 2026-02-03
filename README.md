@@ -184,10 +184,12 @@ The response includes:
 
 M. SaiSushma 
 B.Tech CSE (AI & ML) Graduate
-Aspiring AI / GenAI Engineer
+Aspiring AI / GenAI Engineer | AI | Machine Learning | Cloud Deployment
+🔗 LinkedIn: https://www.linkedin.com/in/sai-sushma-maruboyina-382b34334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
 ## ⭐ Support
 
 If you find this project useful or interesting, please consider giving it a **star ⭐** on GitHub.
+
